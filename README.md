@@ -82,15 +82,8 @@ git push origin <project_name>/<location>
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 💖 Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* [@zenyc](https://github.com/zenyc) 📖
-
-<!--- You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key). --->
 
 ## 👀 Contact
 
-If you want to contact me you can reach me at <zenyc@live.com>.
+If you want to contact me you can reach me at <dimuhammadwaseem@gmail.com>.
 
